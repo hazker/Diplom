@@ -5029,7 +5029,7 @@ GameObject:
   - component: {fileID: 4458205677961231761}
   - component: {fileID: 5992303365954132601}
   m_Layer: 9
-  m_Name: Nickname Text
+  m_Name: New Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5056,7 +5056,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5516751059779771936}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
