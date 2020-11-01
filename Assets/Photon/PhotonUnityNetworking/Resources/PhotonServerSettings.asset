@@ -29,12 +29,10 @@ MonoBehaviour:
   RunInBackground: 1
   StartInOfflineMode: 0
   RpcList:
+  - ApplyPlayerDamage
   - ClickRpc
   - DestroyRpc
-  - ChatMessage
-  - get_hit
-  - ApplyPlayerDamage
-  - OnPlayerKilled
   - LoadNextMap
+  - OnPlayerKilled
   DisableAutoOpenWizard: 1
   ShowSettings: 1
